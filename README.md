@@ -1,6 +1,6 @@
 # Evaluate api testing
 
-This is sample repo to demo the evaulate API with Azure Machine Learning Studio and some of the issues I have come across. To keep it simple, it does not use any LLM calls the flow response if hardcoded.
+This is sample repo to demo the evaulate API with Azure Machine Learning Studio and some of the issues I have come across. To keep it simple, it does not use any LLM calls and the flow response is hardcoded.
 
 ## Getting started
 
